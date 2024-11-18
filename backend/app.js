@@ -2,6 +2,7 @@
    const dotenv=require('dotenv');
    const path=require('path');
    const app=express();
+   const cors=require('cors');
    const connectDatabase=require('./config/connectDatabase')
    dotenv.config({path:path.join(__dirname,'config','config.env')})
 
@@ -10,8 +11,11 @@
    const petorders=require('./routes/petOrder')
 
    connectDatabase();
-   app.use('/api/v1',petorders)
+   app.use(express.json());
+   app.use(cors());
    app.use('/api/v1',petproducts)
+   app.use('/api/v1',petorders)
+  
 
 
    app.listen(process.env.PORT,()=>{

@@ -3,10 +3,11 @@ const mongoose=require('mongoose')
 const petproductSchema=new mongoose.Schema({
     name:String,
     breed:String,
-    image:[{
+    images:[{
         image:String
     }],
-    price_range:String,
+    description:String,
+    price:String,
     seller:String,
     stock:String,
     createdAt:Date

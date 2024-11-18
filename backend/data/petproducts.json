@@ -1,0 +1,133 @@
+[
+  {
+    "name": "Golden Retriever",
+    "breed": "Dog",
+    "images": [
+      { "image": "1.jpg" }
+     
+    ],
+    "price": "$1000",
+    "seller": "HappyPaws",
+    "stock": "10",
+    "createdAt": "2024-10-01T08:30:00Z",
+    "description": "A friendly and intelligent dog breed, perfect for families."
+  },
+  {
+    "name": "Siberian Husky",
+    "breed": "Dog",
+    "images": [
+      { "image": "2.jpg" }
+    
+    ],
+    "price": "$1200",
+    "seller": "ArcticPets",
+    "stock": "7",
+    "createdAt": "2024-10-02T09:00:00Z",
+    "description": "An energetic and strong dog breed, known for its thick fur."
+  },
+  {
+    "name": "Persian Cat",
+    "breed": "Cat",
+    "images": [
+      { "image": "3.jpg" }
+    
+    ],
+    "price": "$700",
+    "seller": "FurryFriends",
+    "stock": "15",
+    "createdAt": "2024-10-03T10:00:00Z",
+    "description": "A quiet and docile cat breed, known for its luxurious coat."
+  },
+  {
+    "name": "Beagle",
+    "breed": "Dog",
+    "images": [
+      { "image": "4.jpg" }
+      
+    ],
+    "price": "$800",
+    "seller": "PetWorld",
+    "stock": "12",
+    "createdAt": "2024-10-04T11:00:00Z",
+    "description": "A curious and loyal dog breed, excellent for families and hunting."
+  },
+  {
+    "name": "Ragdoll Cat",
+    "breed": "Cat",
+    "images": [
+      { "image": "5.jpg" }
+      
+    ],
+    
+    "price": "$900",
+    "seller": "MeowMart",
+    "stock": "8",
+    "createdAt": "2024-10-05T12:30:00Z",
+    "description": "A calm and affectionate cat breed, great for companionship."
+  },
+  {
+    "name": "German Shepherd",
+    "breed": "Dog",
+   "images": [
+      { "image": "6.jpg" }
+      
+    ],
+    "price": "$1500",
+    "seller": "CanineKingdom",
+    "stock": "5",
+    "createdAt": "2024-10-06T13:00:00Z",
+    "description": "A courageous and confident dog breed, known for its versatility."
+  },
+  {
+    "name": "Bengal Cat",
+    "breed": "Cat",
+    "images": [
+      { "image": "7.jpg" }
+      
+    ],
+    "price": "$1700",
+    "seller": "ExoticPets",
+    "stock": "6",
+    "createdAt": "2024-10-07T14:00:00Z",
+    "description": "A wild-looking yet friendly cat breed, known for its stunning appearance."
+  },
+  {
+    "name": "Poodle",
+    "breed": "Dog",
+   "images": [
+      { "image": "8.jpg" }
+      
+    ],
+    "price": "$1100",
+    "seller": "PetLovers",
+    "stock": "9",
+    "createdAt": "2024-10-08T15:30:00Z",
+    "description": "An intelligent and active dog breed, popular for its hypoallergenic coat."
+  },
+  {
+    "name": "British Shorthair",
+    "breed": "Cat",
+    "images": [
+      { "image": "9.jpg" }
+      
+    ],
+    "price": "$1000",
+    "seller": "KittyCuddles",
+    "stock": "11",
+    "createdAt": "2024-10-09T16:00:00Z",
+    "description": "A calm and easygoing cat breed, known for its plush coat."
+  },
+  {
+    "name": "Bulldog",
+    "breed": "Dog",
+   "images": [
+      { "image": "10.jpg" }
+      
+    ],
+    "price": "$1800",
+    "seller": "PetParadise",
+    "stock": "4",
+    "createdAt": "2024-10-10T17:00:00Z",
+    "description": "A loyal and calm dog breed, known for its distinctive wrinkled face."
+  }
+]
